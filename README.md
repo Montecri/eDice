@@ -13,6 +13,8 @@ Parts list:
 - 10 uF ceramic capacitor
 - 1 x Tilt switch sensor
 - 1 x 7 segment display
+- CR2032 cradel
+- CR2032 battery
 
 Development / Debug environment:
 
