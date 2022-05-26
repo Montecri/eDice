@@ -1,4 +1,8 @@
 # eDice
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/38574378/170553703-cf26cf33-c5e6-40e7-b5c3-eb81c74b5018.gif)
+
+
 A PIC16 based electronic dice
 
 Parts list:
