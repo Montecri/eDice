@@ -42,3 +42,6 @@ https://www.youtube.com/watch?v=TU3mP62WcNA
 
 
 Article link:
+
+https://www.linkedin.com/pulse/picking-battle-tales-from-cave-dive-iot-development-world-monteiro/
+
